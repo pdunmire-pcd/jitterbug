@@ -15,7 +15,7 @@ int main()
 
     bn::random rng = bn::random();
 
-    bn::backdrop::set_color(bn::color(30, 3, 5));
+    bn::backdrop::set_color(bn::color(31, 3, 5));
 
     bn::vector<bn::sprite_ptr, 50> bugs = {};
 
