@@ -6,6 +6,7 @@
 #include <bn_vector.h>
 #include <bn_keypad.h>
 
+//personal additions to the includes
 #include "bn_sprite_items_ladybug.h"
 
 int main()
